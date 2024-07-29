@@ -12,4 +12,4 @@ jasmini@prof.educacao.sp.gov.br
 
 @jasminiarruda
 
-![descrição do GIF]([(https://media1.tenor.com/m/jp-ltp06M2oAAAAd/ahsoka-show-star-wars.gif))]
+![(https://media1.tenor.com/m/jp-ltp06M2oAAAAd/ahsoka-show-star-wars.gif)]
